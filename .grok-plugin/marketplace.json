@@ -288,7 +288,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/alexander-zuev/porte.git",
-        "sha": "0cac9c619e8cff5faf5943cfab6ff0495f3b1d6d",
+        "sha": "5bf2737d5005ca59f0c0fbaa5fa145db85ad8783",
         "path": "plugins/grok"
       },
       "homepage": "https://useporte.dev",
