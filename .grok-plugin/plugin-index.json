@@ -524,6 +524,23 @@
         ]
       }
     },
+    "porte": {
+      "sha": "e32453506526ffdd03984e6c1ca3565897bd3381",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "porte",
+            "description": "stdio"
+          }
+        ],
+        "skills": [
+          {
+            "name": "remote-control",
+            "description": "Run this machine's Grok sessions from your phone via Porte. Pairs the machine, then toggles remote control on or off."
+          }
+        ]
+      }
+    },
     "pstack": {
       "sha": "bdf7aa355337897f167153e05069aca505dae17c",
       "components": {
